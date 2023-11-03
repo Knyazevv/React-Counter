@@ -1,0 +1,19 @@
+@import url("../node_modules//bootstrap/dist/css/bootstrap.min.css");
+
+
+.wrapper .count{
+  color: black;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 22px;
+  font-weight: 700;
+  padding: 0 2px;
+  width: 100px;
+  text-align: center;
+}
+
+.wrapper .minus, .wrapper .plus{
+  cursor: pointer;
+  display: inline-block;
+  color: white;
+}
